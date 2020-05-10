@@ -30,6 +30,6 @@ The current hooked WinAPIs are defined into `hooksDictionary.py` file.
 
 #### Usage
 
-1. Select the file you want to launch and monitor
+1. Select the file you want to launch and to monitor
 
-2. View APIs intercepted in prompt
+2. View intercepted APIs in prompt
